@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/REACT-JS-Projects/static/css/main.7a22fe3d.css",
+    "main.js": "/REACT-JS-Projects/static/js/main.27fd88ac.js",
+    "static/js/787.1ed0c42c.chunk.js": "/REACT-JS-Projects/static/js/787.1ed0c42c.chunk.js",
+    "static/media/skilmg.jpg": "/REACT-JS-Projects/static/media/skilmg.bb45f9d7080827a90059.jpg",
+    "static/media/bgg.jpg": "/REACT-JS-Projects/static/media/bgg.4fab32df4f5ddc895b7c.jpg",
+    "static/media/SATHISH_KUMAR_S.pdf": "/REACT-JS-Projects/static/media/SATHISH_KUMAR_S.82456f5b11bb12897959.pdf",
+    "static/media/cc1.jpg": "/REACT-JS-Projects/static/media/cc1.299692ea11c30ee45477.jpg",
+    "index.html": "/REACT-JS-Projects/index.html",
+    "main.7a22fe3d.css.map": "/REACT-JS-Projects/static/css/main.7a22fe3d.css.map",
+    "main.27fd88ac.js.map": "/REACT-JS-Projects/static/js/main.27fd88ac.js.map",
+    "787.1ed0c42c.chunk.js.map": "/REACT-JS-Projects/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a22fe3d.css",
+    "static/js/main.27fd88ac.js"
+  ]
+}
